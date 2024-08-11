@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657056965289",
+    "project_id": "jora-6181c",
+    "storage_bucket": "jora-6181c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657056965289:android:1fd54daf95fb58d573bfb8",
+        "android_client_info": {
+          "package_name": "com.example.jora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnfGP6S55UnNMprf7lyPoVfZQq2HLgQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
