@@ -73,6 +73,7 @@ dependencies {
     implementation(libs.androidx.ui.text.google.fonts)
     implementation(libs.firebase.auth)
     implementation(libs.androidx.navigation.compose)
+    implementation(libs.firebase.crashlytics.buildtools)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -85,6 +86,8 @@ dependencies {
     implementation(libs.firebase.auth)
     implementation(libs.play.services.auth)
     implementation(platform(libs.firebase.bom))
+
+    implementation("com.google.code.gson:gson:2.10.1")
 
     // compose viewModel
     implementation(libs.androidx.lifecycle.viewmodel.compose)

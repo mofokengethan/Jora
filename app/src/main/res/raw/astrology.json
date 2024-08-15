@@ -1,0 +1,124 @@
+{
+  "planets": [
+    {
+      "name": "Sun",
+      "symbol": "☉",
+      "emoji": "☉",
+      "characteristics": "Represents the self, ego, and vitality.",
+      "associatedColors": ["Gold", "Orange"],
+      "associatedNumbers": [1],
+      "element": "Fire",
+      "keyThemes": ["Leadership", "Creativity", "Confidence"],
+      "dayOfWeek": "Sunday",
+      "mythologicalAssociations": ["Apollo (Greek)", "Ra (Egyptian)"]
+    },
+    {
+      "name": "Moon",
+      "symbol": "☽",
+      "emoji": "☽",
+      "characteristics": "Represents emotions, intuition, and the unconscious.",
+      "associatedColors": ["Silver", "White"],
+      "associatedNumbers": [2],
+      "element": "Water",
+      "keyThemes": ["Emotional Insight", "Nurturing", "Instinct"],
+      "dayOfWeek": "Monday",
+      "mythologicalAssociations": ["Selene (Greek)", "Chandra (Hindu)"]
+    },
+    {
+      "name": "Mercury",
+      "symbol": "☿",
+      "emoji": "☿",
+      "characteristics": "Represents communication, intellect, and travel.",
+      "associatedColors": ["Yellow", "Light Green"],
+      "associatedNumbers": [5],
+      "element": "Air",
+      "keyThemes": ["Intellect", "Communication", "Adaptability"],
+      "dayOfWeek": "Wednesday",
+      "mythologicalAssociations": ["Hermes (Greek)", "Thoth (Egyptian)"]
+    },
+    {
+      "name": "Venus",
+      "symbol": "♀",
+      "emoji": "♀",
+      "characteristics": "Represents love, beauty, and harmony.",
+      "associatedColors": ["Green", "Pink"],
+      "associatedNumbers": [6],
+      "element": "Earth",
+      "keyThemes": ["Love", "Beauty", "Harmony"],
+      "dayOfWeek": "Friday",
+      "mythologicalAssociations": ["Aphrodite (Greek)", "Venus (Roman)"]
+    },
+    {
+      "name": "Mars",
+      "symbol": "♂",
+      "emoji": "♂",
+      "characteristics": "Represents action, drive, and aggression.",
+      "associatedColors": ["Red", "Iron"],
+      "associatedNumbers": [9],
+      "element": "Fire",
+      "keyThemes": ["Action", "Courage", "Conflict"],
+      "dayOfWeek": "Tuesday",
+      "mythologicalAssociations": ["Ares (Greek)", "Mars (Roman)"]
+    },
+    {
+      "name": "Jupiter",
+      "symbol": "♃",
+      "emoji": "♃",
+      "characteristics": "Represents expansion, growth, and abundance.",
+      "associatedColors": ["Blue", "Purple"],
+      "associatedNumbers": [3],
+      "element": "Fire",
+      "keyThemes": ["Expansion", "Wisdom", "Good Fortune"],
+      "dayOfWeek": "Thursday",
+      "mythologicalAssociations": ["Zeus (Greek)", "Jupiter (Roman)"]
+    },
+    {
+      "name": "Saturn",
+      "symbol": "♄",
+      "emoji": "♄",
+      "characteristics": "Represents discipline, responsibility, and structure.",
+      "associatedColors": ["Black", "Dark Blue"],
+      "associatedNumbers": [8],
+      "element": "Earth",
+      "keyThemes": ["Discipline", "Authority", "Limitations"],
+      "dayOfWeek": "Saturday",
+      "mythologicalAssociations": ["Cronus (Greek)", "Saturn (Roman)"]
+    },
+    {
+      "name": "Uranus",
+      "symbol": "♅",
+      "emoji": "♅",
+      "characteristics": "Represents innovation, rebellion, and originality.",
+      "associatedColors": ["Electric Blue", "Turquoise"],
+      "associatedNumbers": [4],
+      "element": "Air",
+      "keyThemes": ["Innovation", "Rebellion", "Unique Perspectives"],
+      "dayOfWeek": "Saturday",
+      "mythologicalAssociations": ["Uranus (Greek)"]
+    },
+    {
+      "name": "Neptune",
+      "symbol": "♆",
+      "emoji": "♆",
+      "characteristics": "Represents dreams, intuition, and spirituality.",
+      "associatedColors": ["Sea Green", "Lavender"],
+      "associatedNumbers": [7],
+      "element": "Water",
+      "keyThemes": ["Spirituality", "Dreams", "Mysticism"],
+      "dayOfWeek": "Friday",
+      "mythologicalAssociations": ["Poseidon (Greek)", "Neptune (Roman)"]
+    },
+    {
+      "name": "Pluto",
+      "symbol": "♇",
+      "emoji": "♇",
+      "characteristics": "Represents transformation, power, and regeneration.",
+      "associatedColors": ["Dark Red", "Black"],
+      "associatedNumbers": [9],
+      "element": "Water",
+      "keyThemes": ["Transformation", "Power", "Regeneration"],
+      "dayOfWeek": "Tuesday",
+      "mythologicalAssociations": ["Hades (Greek)", "Pluto (Roman)"]
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import androidx.compose.ui.graphics.Color
 val background = Color(0xFFF2F2F2)
 val cardBackground = Color(0xFFECECEC)
 val regularBlack = Color(0xFF101010)
-val buttonBackground = Color(0xFF212121)
+val buttonBackground = Color(0xFFF1F1F1)
 
 val buttonTint2 = Color(0xFF7A28CB)
 val buttonTint = Color(0xFFFA9F42)

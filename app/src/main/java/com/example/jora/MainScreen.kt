@@ -46,6 +46,10 @@ import com.example.jora.views.impressionsScreen.ImpressionsScreen
 import com.example.jora.views.matchesScreen.MatchesScreen
 import com.example.jora.views.postsScreen.PostsScreen
 import com.example.jora.views.profileScreen.ProfileScreen
+import com.example.jora.views.profileScreen.views.NotificationsScreen
+import com.example.jora.views.profileScreen.views.SelectLanguageScreen
+import com.example.jora.views.profileScreen.views.SelectRegionScreen
+import com.example.jora.views.profileScreen.views.UserInteractionsScreen
 import com.example.jora.views.shareScreen.SharesScreen
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -108,8 +112,15 @@ fun HeaderSelectionContent(
                 color = if (isSelected) buttonTint else buttonTint2,
                 modifier = Modifier
                     .padding(horizontal = 8.dp)
-                    .border(1.38.dp, if (isSelected) Color.DarkGray else Color.LightGray, RoundedCornerShape(6.dp))
-                    .background(if (isSelected) buttonBackground else Color.White, RoundedCornerShape(6.dp))
+                    .border(
+                        1.38.dp,
+                        if (isSelected) Color.DarkGray else Color.LightGray,
+                        RoundedCornerShape(6.dp)
+                    )
+                    .background(
+                        if (isSelected) buttonBackground else Color.White,
+                        RoundedCornerShape(6.dp)
+                    )
                     .padding(6.dp)
                     .clickable {
                         action(sectionTitle)
@@ -120,7 +131,8 @@ fun HeaderSelectionContent(
 }
 
 enum class UserProfileScreenType {
-    Profile, Friends, Matches, Posts, Comments, Shares, Impressions
+    Profile, Friends, Matches, Posts, Comments, Shares, Impressions,
+    Notifications, SelectLanguage, SelectRegion, UserInteraction
 }
 
 class UserProfileScreenVM: ViewModel() {
@@ -142,6 +154,10 @@ class UserProfileScreenVM: ViewModel() {
             "Comments" -> { changeView(UserProfileScreenType.Comments) }
             "Shares" -> { changeView(UserProfileScreenType.Shares) }
             "Impressions" -> { changeView(UserProfileScreenType.Impressions) }
+            "Notifications" -> { changeView(UserProfileScreenType.Notifications) }
+            "SelectLanguage" -> { changeView(UserProfileScreenType.SelectLanguage) }
+            "SelectRegion" -> { changeView(UserProfileScreenType.SelectRegion) }
+            "UserInteraction" -> { changeView(UserProfileScreenType.UserInteraction) }
         }
     }
 }
@@ -200,11 +216,32 @@ fun UserProfileScreen(
                 UserProfileScreenType.Profile -> ProfileScreen(
                     navController,
                     mainViewModel,
+                    contentVM,
                     emailVM,
                     passwordVM,
                     displayNameVM,
                     passcodeVM
                 )
+                UserProfileScreenType.Notifications -> NotificationsScreen(
+                    navController = navController,
+                    mainViewModel = mainViewModel,
+                    contentVM = contentVM
+                )
+                UserProfileScreenType.SelectLanguage -> SelectLanguageScreen(
+                    navController = navController,
+                    mainViewModel = mainViewModel,
+                    contentVM = contentVM
+                )
+                UserProfileScreenType.SelectRegion -> SelectRegionScreen(
+                    navController = navController,
+                    mainViewModel = mainViewModel,
+                    contentVM = contentVM
+                )
+                UserProfileScreenType.UserInteraction -> UserInteractionsScreen(
+                    navController = navController,
+                    mainViewModel = mainViewModel,
+                    contentVM = contentVM
+                    )
                 UserProfileScreenType.Friends -> FriendsScreen(navController = navController)
                 UserProfileScreenType.Matches -> MatchesScreen(navController = navController)
                 UserProfileScreenType.Posts -> PostsScreen(navController = navController)

@@ -1,0 +1,1198 @@
+{
+  "categories": [
+    {
+      "name": "Perceived Communication Effectiveness",
+      "questions": [
+        {
+          "question": "How often do you feel your partner listens to you attentively?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel comfortable discussing your feelings with your partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Not comfortable"]
+        },
+        {
+          "question": "How often do you have meaningful conversations with your partner?",
+          "answers": ["Very often", "Often", "Occasionally", "Rarely"]
+        },
+        {
+          "question": "How effectively do you and your partner resolve misunderstandings?",
+          "answers": ["Very effectively", "Effectively", "Ineffectively", "Very ineffectively"]
+        },
+        {
+          "question": "Do you believe your partner understands your perspective during disagreements?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that your partner avoids discussing important topics?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How comfortable are you with the level of openness in your conversations?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "Do you think your partner expresses their thoughts clearly?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you find yourself needing to repeat or clarify what you said to your partner?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How well do you and your partner handle conflicts through communication?",
+          "answers": ["Very well", "Well", "Poorly", "Very poorly"]
+        },
+        {
+          "question": "Do you feel that you and your partner have similar communication styles?",
+          "answers": ["Yes, very similar", "Somewhat similar", "Neutral", "Not similar"]
+        },
+        {
+          "question": "How often do you and your partner use non-verbal communication effectively?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner is open to feedback?",
+          "answers": ["Very open", "Somewhat open", "Neutral", "Not open"]
+        },
+        {
+          "question": "How often do you feel your partner interrupts you during conversations?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How often do you and your partner discuss your relationship openly?",
+          "answers": ["Very often", "Often", "Occasionally", "Rarely"]
+        },
+        {
+          "question": "Do you believe that your partner is fully honest with you during discussions?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How effective is your partner at expressing their needs and desires?",
+          "answers": ["Very effective", "Effective", "Ineffective", "Very ineffective"]
+        },
+        {
+          "question": "How often do you feel that communication problems affect your relationship negatively?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "Do you and your partner have strategies for improving communication?",
+          "answers": ["Yes, well-established", "Yes, somewhat", "No, but we are working on it", "No, not at all"]
+        },
+        {
+          "question": "How often do you feel that your partner’s communication style is a source of frustration?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        }
+      ]
+    },
+    {
+      "name": "Emotional Satisfaction",
+      "questions": [
+        {
+          "question": "How satisfied are you with the emotional support you receive from your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel emotionally connected to your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your emotional needs are being met in this relationship?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How frequently do you feel appreciated by your partner?",
+          "answers": ["Very frequently", "Frequently", "Occasionally", "Rarely"]
+        },
+        {
+          "question": "How often do you feel that your partner understands your emotional state?",
+          "answers": ["Always", "Often", "Sometimes", "Never"]
+        },
+        {
+          "question": "How satisfied are you with the level of affection you receive from your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "Do you feel comfortable sharing your deepest feelings with your partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you feel your partner makes an effort to understand your emotions?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the emotional intimacy in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel that your partner's actions contribute positively to your emotional well-being?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner is emotionally available when you need them?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that your partner supports you in challenging times?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you feel secure and valued in your relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner makes an effort to keep the relationship emotionally fulfilling?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the way conflicts are managed emotionally in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel emotionally supported by your partner in making personal decisions?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you feel that your partner acknowledges and validates your feelings?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your emotional well-being is a priority for your partner?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How satisfied are you with the balance of emotional give-and-take in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel that your partner's actions align with your emotional needs?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Conflict Handling",
+      "questions": [
+        {
+          "question": "How often do you and your partner address conflicts directly?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How effectively do you resolve conflicts with your partner?",
+          "answers": ["Very effectively", "Effectively", "Ineffectively", "Very ineffectively"]
+        },
+        {
+          "question": "Do you feel that your partner listens to your concerns during a conflict?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that conflicts lead to productive discussions?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with expressing your feelings during conflicts?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you and your partner reach a compromise during conflicts?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner's approach to conflict is fair?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How frequently do conflicts result in lingering issues or resentment?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How often do you and your partner use constructive communication techniques during conflicts?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that both partners' needs are considered during conflicts?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that conflicts are resolved in a way that strengthens the relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How effectively does your partner manage their emotions during conflicts?",
+          "answers": ["Very effectively", "Effectively", "Ineffectively", "Very ineffectively"]
+        },
+        {
+          "question": "How often do you feel that conflicts escalate unnecessarily?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "Do you feel that you and your partner both take responsibility for resolving conflicts?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you use problem-solving strategies to handle conflicts?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the way conflicts are handled in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you and your partner agree on how to handle conflicts?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that conflicts are resolved with mutual respect?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that unresolved conflicts affect your relationship negatively?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How often do you and your partner seek external help (e.g., counseling) for conflict resolution?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Trust and Transparency",
+      "questions": [
+        {
+          "question": "How often do you feel that your partner is honest with you?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How comfortable are you with the level of transparency in your relationship?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "Do you trust your partner to keep their promises?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How frequently do you feel your partner shares important information with you?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the level of openness in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "Do you feel that your partner respects your privacy?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel secure in your relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How transparent is your partner about their feelings and thoughts?",
+          "answers": ["Very transparent", "Somewhat transparent", "Neutral", "Not transparent"]
+        },
+        {
+          "question": "Do you believe that your partner is trustworthy?",
+          "answers": ["Completely", "Mostly", "Somewhat", "Not at all"]
+        },
+        {
+          "question": "How often do you have open and honest discussions with your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner hides things from you?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How often do you feel that trust issues arise in your relationship?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How comfortable are you with the level of disclosure your partner provides about their activities?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "Do you feel that your partner is transparent about their past?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you discuss your expectations regarding trust with your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner is open about their mistakes?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that your partner's actions align with their words?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the level of honesty in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "Do you feel that your partner trusts you completely?",
+          "answers": ["Yes, completely", "Yes, mostly", "Somewhat", "Not at all"]
+        },
+        {
+          "question": "How often do you feel that your partner is forthcoming with information that affects you?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Alignment of Goals and Values",
+      "questions": [
+        {
+          "question": "How often do you and your partner discuss your long-term goals?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that you and your partner share similar life values?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How important is it for you that your partner's goals align with your own?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you feel that you and your partner make decisions based on shared values?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that you and your partner have similar priorities for the future?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How comfortable are you with the way your partner handles goal-setting?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "Do you and your partner frequently talk about your individual and shared values?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you feel that you and your partner's goals are complementary?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you that your partner's values align with yours when making major life decisions?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "Do you feel that you and your partner's goals for family life are aligned?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner adjust your goals to align with each other?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you think you and your partner have a clear understanding of each other's core values?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How important is it for you that your partner's financial goals match yours?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How satisfied are you with the level of agreement on personal goals between you and your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "Do you feel that you and your partner have discussed your long-term life plans thoroughly?",
+          "answers": ["Yes, thoroughly", "Yes, somewhat", "No, but we are planning to", "No, not at all"]
+        },
+        {
+          "question": "How often do you and your partner agree on the importance of personal achievements?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner supports your personal goals and ambitions?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner revisit and revise your goals together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you think your values and goals are well-aligned for handling potential conflicts in the future?",
+          "answers": ["Yes, very well", "Yes, somewhat", "No, but we are working on it", "No, not at all"]
+        },
+        {
+          "question": "How satisfied are you with the way you and your partner balance your individual and shared goals?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        }
+      ]
+    },
+    {
+      "name": "Career Importance",
+      "questions": [
+        {
+          "question": "How important is your career to you compared to your personal life?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "Do you feel that your partner supports your career ambitions?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner discuss career goals and aspirations?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the work-life balance you currently have?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "Do you feel that your career goals are compatible with your partner's expectations?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do career-related issues impact your relationship?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How important is it for you that your partner's career is successful?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "Do you and your partner have similar expectations regarding career achievements?",
+          "answers": ["Yes, very similar", "Somewhat similar", "Neutral", "Not similar"]
+        },
+        {
+          "question": "How often do you feel that your partner's career takes precedence over your relationship?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How well do you and your partner manage career demands with relationship needs?",
+          "answers": ["Very well", "Well", "Poorly", "Very poorly"]
+        },
+        {
+          "question": "Do you think your partner is understanding of the time commitments required by your career?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner plan your careers together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your career success contributes positively to your relationship?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner discuss potential career changes or relocations?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How supportive are you of your partner's career changes or decisions?",
+          "answers": ["Very supportive", "Somewhat supportive", "Neutral", "Not supportive"]
+        },
+        {
+          "question": "How important is it for you that your career aligns with your personal values?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "Do you feel that career pressures are well managed within your relationship?",
+          "answers": ["Very well", "Well", "Poorly", "Very poorly"]
+        },
+        {
+          "question": "How often do you feel that your career ambitions are in conflict with your relationship goals?",
+          "answers": ["Never", "Rarely", "Sometimes", "Often"]
+        },
+        {
+          "question": "How satisfied are you with the level of career support you receive from your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you and your partner negotiate career responsibilities and expectations?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Shared Activities and Quality Time",
+      "questions": [
+        {
+          "question": "How often do you and your partner engage in activities you both enjoy?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the amount of quality time you spend together?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you plan and participate in special outings or events together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that the time you spend together is meaningful?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How important is spending quality time together to you?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you and your partner try new activities together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How frequently do you have uninterrupted time together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you and your partner enjoy a hobby or interest together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that you have enough time for each other despite your busy schedules?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner create opportunities for quality time in your daily routine?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the balance between shared activities and individual time?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you and your partner discuss and plan your time together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that your partner makes an effort to prioritize spending time with you?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you and your partner engage in regular rituals or routines together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you that your partner shares your interests and hobbies?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you feel that your partner values the time you spend together?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that the activities you do together strengthen your relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel that you and your partner are good at finding time for each other amidst other responsibilities?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How satisfied are you with the level of engagement during your shared activities?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you and your partner have fun together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Support and Dependability",
+      "questions": [
+        {
+          "question": "How often do you feel supported by your partner during challenging times?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you trust that your partner will be there for you when you need them most?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How reliable do you find your partner when it comes to fulfilling commitments?",
+          "answers": ["Very reliable", "Reliable", "Somewhat unreliable", "Unreliable"]
+        },
+        {
+          "question": "How often do you and your partner offer emotional support to each other?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the level of support you receive from your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel that your partner is dependable in daily tasks and responsibilities?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "Do you feel confident in your partner's ability to handle unforeseen circumstances?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that your partner's support aligns with your needs and expectations?",
+          "answers": ["Always", "Usually", "Sometimes", "Never"]
+        },
+        {
+          "question": "How often do you feel that you can count on your partner to follow through on their promises?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you asking your partner for help when needed?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you feel that your partner is proactive in offering support?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How dependable is your partner when it comes to emotional availability?",
+          "answers": ["Very dependable", "Dependable", "Somewhat undependable", "Undependable"]
+        },
+        {
+          "question": "How often do you and your partner discuss and manage support needs together?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you feel your partner takes initiative to provide support during difficult situations?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the balance of support you and your partner provide each other?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How frequently do you find that your partner’s actions match their promises of support?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you feel that your partner’s support helps you feel more secure in the relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you that your partner is dependable in times of crisis?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you feel that your partner’s support is consistent with their level of dependability?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How confident are you in your partner’s ability to be supportive in the future?",
+          "answers": ["Very confident", "Somewhat confident", "Neutral", "Not confident"]
+        }
+      ]
+    },
+    {
+      "name": "Intimacy and Physical Affection",
+      "questions": [
+        {
+          "question": "How often do you and your partner engage in physical affection, such as hugging, kissing, or holding hands?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the level of physical intimacy in your relationship?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How comfortable are you with the amount of physical affection your partner shows?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you feel that physical affection helps you feel closer to your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you and your partner communicate about your needs for physical affection?",
+          "answers": ["Very well", "Well", "Somewhat", "Not well"]
+        },
+        {
+          "question": "How important is physical affection to you in maintaining a healthy relationship?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How frequently do you initiate physical affection with your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often does your partner initiate physical affection with you?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How aligned are your needs for physical affection with your partner's needs?",
+          "answers": ["Very aligned", "Somewhat aligned", "Neutral", "Not aligned"]
+        },
+        {
+          "question": "How often do you feel that physical affection strengthens the emotional connection between you and your partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you and your partner discuss your physical intimacy needs and preferences?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you expressing your physical intimacy needs to your partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you feel that your partner's physical affection meets your expectations?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the way physical affection is balanced between you and your partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you feel that your partner’s physical affection helps reduce stress or anxiety in the relationship?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you to receive physical affection regularly from your partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you feel that physical affection enhances your overall relationship satisfaction?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How confident are you in your partner’s willingness to meet your needs for physical affection?",
+          "answers": ["Very confident", "Somewhat confident", "Neutral", "Not confident"]
+        },
+        {
+          "question": "How often do you feel that physical affection between you and your partner is spontaneous and genuine?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Financial Goals and Planning",
+      "questions": [
+        {
+          "question": "How clearly defined are your short-term financial goals?",
+          "answers": ["Very clear", "Somewhat clear", "Neutral", "Unclear"]
+        },
+        {
+          "question": "How confident are you in achieving your long-term financial goals?",
+          "answers": ["Very confident", "Somewhat confident", "Neutral", "Not confident"]
+        },
+        {
+          "question": "How frequently do you review and update your financial plan?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with your progress towards your financial goals?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How well do you prioritize your financial goals in your planning?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often do you encounter obstacles in achieving your financial goals?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How effectively do you adjust your financial plans to respond to changes in your circumstances?",
+          "answers": ["Very effectively", "Effectively", "Somewhat effectively", "Ineffectively"]
+        },
+        {
+          "question": "How clear are you about the steps needed to achieve your financial goals?",
+          "answers": ["Very clear", "Somewhat clear", "Neutral", "Unclear"]
+        },
+        {
+          "question": "How satisfied are you with the balance between saving for future goals and addressing current financial needs?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you seek advice or resources to help with financial planning and goal-setting?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How often do you set specific, measurable financial goals?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you track your progress towards achieving your financial goals?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often do you revise your financial goals based on changes in your life or financial situation?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the strategies you use to achieve your financial goals?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How confident are you in your ability to meet unexpected financial challenges while pursuing your goals?",
+          "answers": ["Very confident", "Somewhat confident", "Neutral", "Not confident"]
+        },
+        {
+          "question": "How often do you evaluate and adjust your financial plan to reflect changes in your priorities?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you feel your financial planning supports your overall life goals?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often do you celebrate achieving milestones in your financial goals?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the resources or tools you use for financial planning?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you review your financial goals with a financial advisor or mentor?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How confident are you in your long-term financial security based on your current planning?",
+          "answers": ["Very confident", "Somewhat confident", "Neutral", "Not confident"]
+        }
+      ]
+    },
+    {
+      "name": "Budgeting and Spending",
+      "questions": [
+        {
+          "question": "How frequently do you create and update a budget?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you stick to your budgeted spending limits?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How comfortable are you with tracking your expenses on a regular basis?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you review your spending habits to make adjustments to your budget?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with your ability to manage discretionary spending?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How well do you understand your monthly spending patterns?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often do you use financial tools or apps to assist with budgeting and spending?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How frequently do you make unplanned or impulse purchases?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you balance spending on needs versus wants?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How satisfied are you with the financial impact of your current budgeting practices?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you create and use a spending plan for special events or purchases?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How effectively do you manage your spending to avoid debt?",
+          "answers": ["Very effectively", "Effectively", "Somewhat effectively", "Ineffectively"]
+        },
+        {
+          "question": "How often do you review your budget to ensure it reflects your current financial situation?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the way you handle unexpected expenses within your budget?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How frequently do you compare your actual spending against your budgeted amounts?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you making adjustments to your budget in response to changes in income or expenses?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often do you involve your partner or family members in budgeting and spending decisions?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you manage to save money while adhering to your budget?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often do you feel that your budgeting efforts help you achieve your financial goals?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied are you with the level of detail and accuracy in your budget?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often do you seek advice or guidance to improve your budgeting skills?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Parenting Style",
+      "questions": [
+        {
+          "question": "How important is it for you to discuss and align on parenting style with your future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How would you prefer to handle differences in parenting styles with a future partner?",
+          "answers": ["Discuss and find a compromise", "Adhere to my own style", "Allow flexibility", "Avoid discussing it"]
+        },
+        {
+          "question": "How consistent do you think it is important to be in applying parenting rules with your future partner?",
+          "answers": ["Very consistent", "Consistent", "Somewhat inconsistent", "Inconsistent"]
+        },
+        {
+          "question": "How comfortable are you with making parenting decisions jointly with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How important is it for you to adapt your parenting approach based on your child’s needs, alongside a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How satisfied do you hope to be with the level of structure you provide in your child’s daily routine with a future partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How well do you think balancing nurturing and setting boundaries with a partner will support your child’s development?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How important is it for you to find common ground on parenting decisions and strategies with a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How important is consistency between different caregivers in parenting for you?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How would you prefer to handle conflicts or disagreements with your child if you have a partner?",
+          "answers": ["Discuss and resolve together", "Handle independently", "Seek external advice", "Avoid the issue"]
+        },
+        {
+          "question": "How open are you to changing your parenting style based on feedback from a future partner?",
+          "answers": ["Very open", "Somewhat open", "Neutral", "Not open"]
+        },
+        {
+          "question": "How likely are you to attend parenting classes or seek advice together with a future partner?",
+          "answers": ["Very likely", "Somewhat likely", "Neutral", "Unlikely"]
+        },
+        {
+          "question": "How important is it for you that your parenting style supports your child's emotional development, alongside a partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How satisfied do you hope to be with the discipline strategies used by you and your future partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often would you like to reassess parenting goals and approaches with your future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is modeling positive behaviors for your child, especially with a partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How frequently do you think positive reinforcement should be used in parenting alongside a partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with discussing parenting challenges with a future partner or others?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How well do you think a joint parenting style will prepare your child for future challenges?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How often would you like to reflect on parenting experiences and seek improvements with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied would you like to be with the balance of discipline and encouragement provided by you and a partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        }
+      ]
+    },
+    {
+      "name": "Discipline and Education",
+      "questions": [
+        {
+          "question": "How clear should the rules and expectations be when setting them with a future partner?",
+          "answers": ["Very clear", "Somewhat clear", "Neutral", "Unclear"]
+        },
+        {
+          "question": "How consistent do you think it should be to apply disciplinary actions with a future partner?",
+          "answers": ["Very consistent", "Consistent", "Somewhat inconsistent", "Inconsistent"]
+        },
+        {
+          "question": "How often would you prefer to use positive reinforcement as part of discipline with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How satisfied do you hope to be with the effectiveness of the disciplinary methods used by both you and a future partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often would you like to discuss and agree on disciplinary approaches with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with adapting disciplinary strategies based on your child’s behavior with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How frequently would you incorporate educational activities into your child's routine with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you think joint discipline approaches will promote your child’s long-term growth and development?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How satisfied would you like to be with the balance between discipline and academic support provided by you and a partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often would you involve your child in setting and understanding rules if you had a partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you to provide both academic and moral education with a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How effective do you think your strategies for encouraging academic achievements should be with a partner?",
+          "answers": ["Very effective", "Effective", "Somewhat effective", "Ineffective"]
+        },
+        {
+          "question": "How often would you use natural consequences as a form of discipline with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with discussing your child's academic performance and expectations with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often would you collaborate on setting educational goals for your child with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How well do you think joint discipline strategies will align with educational goals for your child?",
+          "answers": ["Very well", "Well", "Somewhat well", "Not well"]
+        },
+        {
+          "question": "How satisfied would you like to be with your child’s response to disciplinary actions from both you and a partner?",
+          "answers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]
+        },
+        {
+          "question": "How often would you seek feedback from teachers or educators on your child's behavior and performance with a partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with the level of support your child receives for their education with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How important is it for you to balance discipline with support for your child's personal interests and hobbies with a partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How frequently would you discuss and adjust discipline strategies to address your child’s changing needs with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        }
+      ]
+    },
+    {
+      "name": "Balancing Work and Parenting",
+      "questions": [
+        {
+          "question": "How important is it for you to have a clear plan for balancing work and parenting responsibilities with a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How would you prefer to manage work and parenting responsibilities if you had a partner?",
+          "answers": ["Share responsibilities equally", "Divide tasks based on availability", "Take turns handling responsibilities", "Handle tasks independently"]
+        },
+        {
+          "question": "How often would you like to reassess and adjust your work and parenting balance with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you to have flexible work arrangements to accommodate parenting duties?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How comfortable are you with negotiating work schedules to balance with parenting duties with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How do you feel about setting boundaries between work and family time with a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often would you like to discuss work-life balance issues with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you to have dedicated time for family activities, separate from work commitments?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How would you prefer to handle unexpected work demands that affect your parenting responsibilities?",
+          "answers": ["Discuss and find a solution together", "Adjust responsibilities as needed", "Handle it independently", "Seek external help"]
+        },
+        {
+          "question": "How important is it for you to have support from a future partner in managing household chores and parenting duties?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How comfortable are you with the idea of your partner taking on a larger share of parenting or household duties if needed?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        },
+        {
+          "question": "How often would you want to discuss and plan for time off from work to spend with your child?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How important is it for you to have clear communication about work and parenting expectations with a future partner?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How likely are you to seek help or resources for balancing work and parenting responsibilities with a future partner?",
+          "answers": ["Very likely", "Somewhat likely", "Neutral", "Unlikely"]
+        },
+        {
+          "question": "How would you like to handle the financial aspects related to work and parenting responsibilities with a future partner?",
+          "answers": ["Share costs equally", "Divide based on income", "Agree on a financial plan", "Handle separately"]
+        },
+        {
+          "question": "How important is it for you to have time for self-care and personal interests while balancing work and parenting?",
+          "answers": ["Very important", "Somewhat important", "Neutral", "Not important"]
+        },
+        {
+          "question": "How often do you think you would need to adjust work schedules to fit your parenting needs with a future partner?",
+          "answers": ["Always", "Often", "Sometimes", "Rarely"]
+        },
+        {
+          "question": "How comfortable are you with discussing and resolving potential conflicts between work and parenting responsibilities with a future partner?",
+          "answers": ["Very comfortable", "Somewhat comfortable", "Neutral", "Uncomfortable"]
+        }
+      ]
+    }
+  ]
+}

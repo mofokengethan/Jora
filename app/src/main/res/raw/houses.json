@@ -1,0 +1,112 @@
+{
+  "houses": [
+    {
+      "number": 1,
+      "name": "First House",
+      "characteristics": "Self, identity, appearance, first impressions, and personal approach.",
+      "associatedSigns": ["Aries"],
+      "ruler": "Mars",
+      "keyThemes": ["Personal identity", "Physical appearance", "Initiative"],
+      "luckyColors": ["Red", "Maroon"]
+    },
+    {
+      "number": 2,
+      "name": "Second House",
+      "characteristics": "Finances, possessions, values, and self-worth.",
+      "associatedSigns": ["Taurus"],
+      "ruler": "Venus",
+      "keyThemes": ["Material wealth", "Self-esteem", "Values"],
+      "luckyColors": ["Green", "Pink"]
+    },
+    {
+      "number": 3,
+      "name": "Third House",
+      "characteristics": "Communication, intellect, learning, and local environment.",
+      "associatedSigns": ["Gemini"],
+      "ruler": "Mercury",
+      "keyThemes": ["Communication", "Learning", "Short trips"],
+      "luckyColors": ["Yellow", "Light Green"]
+    },
+    {
+      "number": 4,
+      "name": "Fourth House",
+      "characteristics": "Home, family, roots, and emotional foundation.",
+      "associatedSigns": ["Cancer"],
+      "ruler": "Moon",
+      "keyThemes": ["Home life", "Family", "Emotional security"],
+      "luckyColors": ["White", "Silver"]
+    },
+    {
+      "number": 5,
+      "name": "Fifth House",
+      "characteristics": "Creativity, romance, children, and self-expression.",
+      "associatedSigns": ["Leo"],
+      "ruler": "Sun",
+      "keyThemes": ["Romance", "Creativity", "Entertainment"],
+      "luckyColors": ["Gold", "Orange"]
+    },
+    {
+      "number": 6,
+      "name": "Sixth House",
+      "characteristics": "Health, daily work, routines, and service.",
+      "associatedSigns": ["Virgo"],
+      "ruler": "Mercury",
+      "keyThemes": ["Health", "Work", "Daily routines"],
+      "luckyColors": ["Brown", "Beige"]
+    },
+    {
+      "number": 7,
+      "name": "Seventh House",
+      "characteristics": "Partnerships, marriage, one-on-one relationships, and open enemies.",
+      "associatedSigns": ["Libra"],
+      "ruler": "Venus",
+      "keyThemes": ["Partnerships", "Marriage", "Contracts"],
+      "luckyColors": ["Blue", "Pink"]
+    },
+    {
+      "number": 8,
+      "name": "Eighth House",
+      "characteristics": "Transformation, shared resources, intimacy, and power.",
+      "associatedSigns": ["Scorpio"],
+      "ruler": "Pluto",
+      "keyThemes": ["Transformation", "Shared resources", "Deep connections"],
+      "luckyColors": ["Black", "Maroon"]
+    },
+    {
+      "number": 9,
+      "name": "Ninth House",
+      "characteristics": "Higher education, philosophy, travel, and beliefs.",
+      "associatedSigns": ["Sagittarius"],
+      "ruler": "Jupiter",
+      "keyThemes": ["Philosophy", "Travel", "Higher learning"],
+      "luckyColors": ["Purple", "Blue"]
+    },
+    {
+      "number": 10,
+      "name": "Tenth House",
+      "characteristics": "Career, public image, reputation, and achievements.",
+      "associatedSigns": ["Capricorn"],
+      "ruler": "Saturn",
+      "keyThemes": ["Career", "Reputation", "Achievements"],
+      "luckyColors": ["Gray", "Black"]
+    },
+    {
+      "number": 11,
+      "name": "Eleventh House",
+      "characteristics": "Friendships, social groups, aspirations, and future goals.",
+      "associatedSigns": ["Aquarius"],
+      "ruler": "Uranus",
+      "keyThemes": ["Friendships", "Aspirations", "Social networks"],
+      "luckyColors": ["Electric Blue", "Turquoise"]
+    },
+    {
+      "number": 12,
+      "name": "Twelfth House",
+      "characteristics": "Subconscious, hidden matters, solitude, and self-undoing.",
+      "associatedSigns": ["Pisces"],
+      "ruler": "Neptune",
+      "keyThemes": ["Subconscious", "Isolation", "Spirituality"],
+      "luckyColors": ["Sea Green", "Lavender"]
+    }
+  ]
+}

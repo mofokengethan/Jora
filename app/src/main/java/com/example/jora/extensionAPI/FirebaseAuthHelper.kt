@@ -193,6 +193,7 @@ class FirebaseAuthHelper {
                     if (isCompleteUserFirebase(userFirebase)) {
                         // complete firebase user
                         createAccountResult.userFirebase = userFirebase
+                        createAccountResult.errorMessage = ""
                     } else {
                         createAccountResult.errorMessage = "Failed to find all the information for your profile."
                     }

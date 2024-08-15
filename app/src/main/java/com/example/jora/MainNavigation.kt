@@ -29,5 +29,6 @@ fun MainNavigation(mainViewModel: MainViewModel) {
         composable("mainScreen") {
             MainScreen(navController, mainViewModel)
         }
+
     }
 }

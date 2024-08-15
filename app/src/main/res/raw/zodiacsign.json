@@ -1,0 +1,196 @@
+{
+  "zodiacSigns": [
+    {
+      "name": "Aries",
+      "startDate": "March 21, 2024",
+      "endDate": "April 19, 2024",
+      "emoji": "♈",
+      "element": {
+        "name": "Fire",
+        "emoji": "🔥"
+      },
+      "luckyNumbers": [1, 8],
+      "luckyColors": ["Red", "White", "Black"],
+      "mythologicalSymbol": "Ram",
+      "compatibleSigns": ["Leo", "Sagittarius", "Gemini", "Aquarius"],
+      "incompatibleSigns": ["Cancer", "Capricorn"],
+      "luckyMonths": ["March", "August"]
+    },
+    {
+      "name": "Taurus",
+      "startDate": "April 20, 2024",
+      "endDate": "May 20, 2024",
+      "emoji": "♉",
+      "element": {
+        "name": "Earth",
+        "emoji": "🌍"
+      },
+      "luckyNumbers": [2, 6, 9],
+      "luckyColors": ["Green", "Pink", "White"],
+      "mythologicalSymbol": "Bull",
+      "compatibleSigns": ["Virgo", "Capricorn", "Cancer", "Pisces"],
+      "incompatibleSigns": ["Leo", "Aquarius"],
+      "luckyMonths": ["April", "September"]
+    },
+    {
+      "name": "Gemini",
+      "startDate": "May 21, 2024",
+      "endDate": "June 20, 2024",
+      "emoji": "♊",
+      "element": {
+        "name": "Air",
+        "emoji": "🌬️"
+      },
+      "luckyNumbers": [3, 5, 7],
+      "luckyColors": ["Yellow", "Light Green"],
+      "mythologicalSymbol": "Twins",
+      "compatibleSigns": ["Libra", "Aquarius", "Aries", "Leo"],
+      "incompatibleSigns": ["Virgo", "Sagittarius"],
+      "luckyMonths": ["May", "November"]
+    },
+    {
+      "name": "Cancer",
+      "startDate": "June 21, 2024",
+      "endDate": "July 22, 2024",
+      "emoji": "♋",
+      "element": {
+        "name": "Water",
+        "emoji": "🌊"
+      },
+      "luckyNumbers": [2, 7, 9],
+      "luckyColors": ["Silver", "White", "Cream"],
+      "mythologicalSymbol": "Crab",
+      "compatibleSigns": ["Scorpio", "Pisces", "Taurus", "Virgo"],
+      "incompatibleSigns": ["Aries", "Libra"],
+      "luckyMonths": ["June", "December"]
+    },
+    {
+      "name": "Leo",
+      "startDate": "July 23, 2024",
+      "endDate": "August 22, 2024",
+      "emoji": "♌",
+      "element": {
+        "name": "Fire",
+        "emoji": "🔥"
+      },
+      "luckyNumbers": [1, 5, 9],
+      "luckyColors": ["Gold", "Orange", "Red"],
+      "mythologicalSymbol": "Lion",
+      "compatibleSigns": ["Aries", "Sagittarius", "Gemini", "Libra"],
+      "incompatibleSigns": ["Taurus", "Scorpio"],
+      "luckyMonths": ["July", "January"]
+    },
+    {
+      "name": "Virgo",
+      "startDate": "August 23, 2024",
+      "endDate": "September 22, 2024",
+      "emoji": "♍",
+      "element": {
+        "name": "Earth",
+        "emoji": "🌍"
+      },
+      "luckyNumbers": [5, 7, 8],
+      "luckyColors": ["Brown", "Beige", "Green"],
+      "mythologicalSymbol": "Maiden",
+      "compatibleSigns": ["Taurus", "Capricorn", "Cancer", "Scorpio"],
+      "incompatibleSigns": ["Gemini", "Sagittarius"],
+      "luckyMonths": ["August", "February"]
+    },
+    {
+      "name": "Libra",
+      "startDate": "September 23, 2024",
+      "endDate": "October 22, 2024",
+      "emoji": "♎",
+      "element": {
+        "name": "Air",
+        "emoji": "🌬️"
+      },
+      "luckyNumbers": [4, 6, 9],
+      "luckyColors": ["Blue", "Pink", "White"],
+      "mythologicalSymbol": "Scales",
+      "compatibleSigns": ["Gemini", "Aquarius", "Leo", "Sagittarius"],
+      "incompatibleSigns": ["Cancer", "Capricorn"],
+      "luckyMonths": ["September", "April"]
+    },
+    {
+      "name": "Scorpio",
+      "startDate": "October 23, 2024",
+      "endDate": "November 21, 2024",
+      "emoji": "♏",
+      "element": {
+        "name": "Water",
+        "emoji": "🌊"
+      },
+      "luckyNumbers": [8, 9],
+      "luckyColors": ["Black", "Red", "Maroon"],
+      "mythologicalSymbol": "Scorpion",
+      "compatibleSigns": ["Cancer", "Pisces", "Virgo", "Capricorn"],
+      "incompatibleSigns": ["Leo", "Aquarius"],
+      "luckyMonths": ["October", "March"]
+    },
+    {
+      "name": "Sagittarius",
+      "startDate": "November 22, 2024",
+      "endDate": "December 21, 2024",
+      "emoji": "♐",
+      "element": {
+        "name": "Fire",
+        "emoji": "🔥"
+      },
+      "luckyNumbers": [3, 7, 9],
+      "luckyColors": ["Purple", "Blue", "Red"],
+      "mythologicalSymbol": "Archer",
+      "compatibleSigns": ["Aries", "Leo", "Libra", "Aquarius"],
+      "incompatibleSigns": ["Virgo", "Pisces"],
+      "luckyMonths": ["November", "April"]
+    },
+    {
+      "name": "Capricorn",
+      "startDate": "December 22, 2024",
+      "endDate": "January 19, 2025",
+      "emoji": "♑",
+      "element": {
+        "name": "Earth",
+        "emoji": "🌍"
+      },
+      "luckyNumbers": [4, 8, 9],
+      "luckyColors": ["Brown", "Gray", "Black"],
+      "mythologicalSymbol": "Goat",
+      "compatibleSigns": ["Taurus", "Virgo", "Scorpio", "Pisces"],
+      "incompatibleSigns": ["Aries", "Libra"],
+      "luckyMonths": ["December", "July"]
+    },
+    {
+      "name": "Aquarius",
+      "startDate": "January 20, 2025",
+      "endDate": "February 18, 2025",
+      "emoji": "♒",
+      "element": {
+        "name": "Air",
+        "emoji": "🌬️"
+      },
+      "luckyNumbers": [4, 7, 8],
+      "luckyColors": ["Electric Blue", "Turquoise", "Purple"],
+      "mythologicalSymbol": "Water Bearer",
+      "compatibleSigns": ["Gemini", "Libra", "Aries", "Sagittarius"],
+      "incompatibleSigns": ["Taurus", "Scorpio"],
+      "luckyMonths": ["January", "August"]
+    },
+    {
+      "name": "Pisces",
+      "startDate": "February 19, 2025",
+      "endDate": "March 20, 2025",
+      "emoji": "♓",
+      "element": {
+        "name": "Water",
+        "emoji": "🌊"
+      },
+      "luckyNumbers": [3, 7, 9],
+      "luckyColors": ["Sea Green", "Lavender", "White"],
+      "mythologicalSymbol": "Fishes",
+      "compatibleSigns": ["Cancer", "Scorpio", "Taurus", "Capricorn"],
+      "incompatibleSigns": ["Gemini", "Sagittarius"],
+      "luckyMonths": ["February", "November"]
+    }
+  ]
+}

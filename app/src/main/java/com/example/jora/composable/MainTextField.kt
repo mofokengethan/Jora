@@ -14,6 +14,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Lock
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
@@ -76,7 +77,9 @@ class MainTextFieldVM : ViewModel() {
                 fieldVM.showErrorMessage(true)
                 false
             }
-            else -> { true }
+            else -> {
+                true
+            }
         }
     }
 
@@ -118,6 +121,30 @@ class MainTextFieldVM : ViewModel() {
 }
 
 @Composable
+fun AabanaTextField(
+    label: String,
+    supportMessage: String,
+    isPassword: Boolean,
+    vm: MainTextFieldVM,
+    text: (String) -> Unit
+) {
+    val vmText = vm.textFieldText.collectAsState().value
+    val vmShowErrorMessage = vm.showErrorMessage.collectAsState().value
+    val vmErrorMessage = vm.errorMessage.collectAsState().value
+
+    OutlinedTextField(modifier = Modifier.padding(bottom = 18.dp).fillMaxWidth(1f), value = vmText, onValueChange = { newText ->
+        vm.updateText(newText)
+        text(newText)
+    }, supportingText = {
+        Text(text = if (vmShowErrorMessage) vmErrorMessage else supportMessage)
+    }, keyboardOptions = KeyboardOptions(
+        keyboardType = if (isPassword) KeyboardType.Password else KeyboardType.Email
+    ), label = {
+        Text(label)
+    })
+}
+
+@Composable
 fun MainTextField(
     title: String,
     icon: ImageVector?,
@@ -152,13 +179,12 @@ fun MainTextField(
                     .padding(12.dp)
             ) {
                 DualRowContent(
-                    modifier = Modifier.padding(bottom = 6.dp),
                     leftSide = {
                         Text(
                             title,
                             color = regularBlack,
                             fontFamily = dmSerifDisplay,
-                            fontSize = 32.sp
+                            fontSize = 28.sp
                         )
                     },
                     rightSide = {
@@ -187,7 +213,6 @@ fun MainTextField(
                         }
                     }
                 )
-
                 Text(
                     modifier = Modifier
                         .padding(vertical = 8.dp),

@@ -1,0 +1,66 @@
+{
+  "nativeAmericanAstrology": {
+    "animalTotems": {
+      "Eagle": {
+        "direction": "East",
+        "element": "Air",
+        "qualities": "New beginnings, clarity, and inspiration",
+        "emoji": "🦅"
+      },
+      "Bear": {
+        "direction": "North",
+        "element": "Earth",
+        "qualities": "Wisdom, stability, and knowledge",
+        "emoji": "🐻"
+      },
+      "Wolf": {
+        "direction": "South",
+        "element": "Fire",
+        "qualities": "Growth, passion, and creativity",
+        "emoji": "🐺"
+      },
+      "Deer": {
+        "direction": "West",
+        "element": "Water",
+        "qualities": "Reflection, emotion, and transformation",
+        "emoji": "🦌"
+      },
+      "Crow": {
+        "direction": "West",
+        "element": "Water",
+        "qualities": "Reflection, emotion, and transformation",
+        "emoji": "🐦‍⬛"
+      },
+      "Buffalo": {
+        "direction": "North",
+        "element": "Earth",
+        "qualities": "Wisdom, stability, and knowledge",
+        "emoji": "🦬"
+      },
+      "Hawk": {
+        "direction": "East",
+        "element": "Air",
+        "qualities": "New beginnings, clarity, and inspiration",
+        "emoji": "🦅"
+      },
+      "Otter": {
+        "direction": "South",
+        "element": "Fire",
+        "qualities": "Growth, passion, and creativity",
+        "emoji": "🦦"
+      },
+      "Snake": {
+        "direction": "West",
+        "element": "Water",
+        "qualities": "Reflection, emotion, and transformation",
+        "emoji": "🐍"
+      },
+      "Beaver": {
+        "direction": "North",
+        "element": "Earth",
+        "qualities": "Wisdom, stability, and knowledge",
+        "emoji": "🦫"
+      }
+    }
+  }
+}
